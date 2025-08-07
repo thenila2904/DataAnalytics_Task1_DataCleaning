@@ -67,5 +67,5 @@ It contains demographic and behavioral information about customers.
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/task1_data_cleaning.git
+   git clone https://github.com/thenila2904/task1_data_cleaning.git
 
